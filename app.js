@@ -7,7 +7,7 @@ let users = [
   { id: 2, name: 'Bob', email: 'bob@example.com' }
 ];
 let nextId = 3;
-const unusedVariable = 'esto causara un error de linting';
+
 
 app.get('/health', (req, res) => {
   res.status(200).json({ status: 'ok' });
