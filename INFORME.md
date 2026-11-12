@@ -1,6 +1,6 @@
 # Informe – Laboratorio 5.1: Creación de un Workflow de GitHub Actions para CI
 
-- **Estudiante:** Medrano Medrano Adrian Mijael
+- **Estudiante:** Medrano Medrano Adrian Mijael New
 - **Usuario de GitHub:** MjlMedrano
 - **Repositorio:** https://github.com/MjlMedrano/github-actions-ci-practica
 
